@@ -32,11 +32,6 @@ npm start
 
 In che modo react renderizza i componenti e in che modo i dati all'interno dei componenti cambiano in tempo reale.
 
-## Miglioramenti Futuri
-
-- Elenco di possibili miglioramenti o funzionalità aggiuntive
-- Usa questa sezione per mostrare la tua capacità di pensare oltre l'esercizio attuale
-
 ## Visualizzare il Progetto
 
 Il progetto è visionabile tramite GitHub Pages al seguente indirizzo: https://marinodilauro.github.io/react-01-pure-react/

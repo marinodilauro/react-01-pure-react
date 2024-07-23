@@ -39,4 +39,4 @@ In che modo react renderizza i componenti e in che modo i dati all'interno dei c
 
 ## Visualizzare il Progetto
 
-Il progetto è visionabile tramite GitHub Pages al seguente indirizzo: [URL del repository GitHub]
+Il progetto è visionabile tramite GitHub Pages al seguente indirizzo: https://marinodilauro.github.io/react-01-pure-react/

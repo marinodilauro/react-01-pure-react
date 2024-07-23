@@ -16,7 +16,7 @@ Semplice pagina HTML con un orologio "digitale" che si aggiorna in tempo reale t
 
 ```bash
 # Clona il repository
-git clone [URL del tuo repository]
+git clone https://github.com/marinodilauro/react-01-pure-react/
 
 # Entra nella directory del progetto
 cd nome-progetto
